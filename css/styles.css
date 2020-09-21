@@ -1,0 +1,33 @@
+body {
+    font-family: 'Bebas Neue', cursive, sans-serif;
+}
+
+.nav-item {
+    font-size: large;
+    margin-right: 30px;
+}
+
+
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url("../img/mbg.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.masthead .h1{
+    font-size: xx-large;
+}
+
+h2{
+    font-size: large;
+}
+
+.btn{ 
+    padding-left: 5%;
+    padding-right: 5%;
+    width: 300px;
+    align-items: center;
+}
